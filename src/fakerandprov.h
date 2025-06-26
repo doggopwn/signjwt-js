@@ -1,0 +1,2 @@
+OSSL_provider_init_fn ossl_fakerand_provider_init;
+void fakerand_enable_debug(void);
